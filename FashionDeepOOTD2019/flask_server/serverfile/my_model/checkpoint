@@ -1,0 +1,2 @@
+model_checkpoint_path: "my_fashion_model_1027_000001_1027upper_L5-100"
+all_model_checkpoint_paths: "my_fashion_model_1027_000001_1027upper_L5-100"
