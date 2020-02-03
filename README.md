@@ -77,3 +77,6 @@
     1. flask server, spring framework web server 2개의 서버를 실행시킨다.(서버 폴더 경로 값 변경요함.)
     2. DB 구성
     3. 안드로이드의 LoginActivity.java 파일에 자신의 ip를 적고, 디버깅 후 실행.
+    * flask_server 밑에 [pose_deploy_linevec_faster_4_stages.prototxt], [pose_iter_160000.caffemodel] 두개의 파일이 필요합니다.
+        => 아래 블로그의 openpose 다운받기를 수행하며 위 두개의 파일을 얻을 수 있습니다.
+[**Python OpenPose 시작하기**](https://blog.naver.com/rhrkdfus/221531159811)
