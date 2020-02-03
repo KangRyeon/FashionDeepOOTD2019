@@ -16,6 +16,7 @@
         - Window 7                                 - MySQL 8.0
         - opencv 4.1.0                             - 안드로이드 8.0 (Oreo)
         - Spring framework (SpringToolSuite4)      - Flask
+        - python 3.5
         
     2. 사용한 라이브러리 및 기능
         - OpenPose 라이브러리를 사용해 인물의 상하의 정확하게 추출
